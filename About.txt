@@ -1,0 +1,1 @@
+Description of project: Odin Project web development project meant to increase familarity with HTML and its associated skills. Project consists of a website listing recipes.
